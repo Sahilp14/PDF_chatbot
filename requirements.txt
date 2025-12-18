@@ -17,6 +17,7 @@ langchain-community
 pandas
 # openai
 langchain-groq
+transformers
 # duckduckgo_search==5.3.1b1
 # pymupdf
 # mysql-connector-python
