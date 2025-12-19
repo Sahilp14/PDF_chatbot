@@ -41,7 +41,6 @@ embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 # creating vectordb by embedding the documents
 vectorstore = Chroma.from_documents(documnets, embedding=embeddings)
 
-print(vectorstore)
 
 
 
