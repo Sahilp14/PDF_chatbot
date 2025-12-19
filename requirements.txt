@@ -8,23 +8,3 @@ langchain_chroma
 chromadb
 langchain_huggingface
 sentence_transformers
-# pypdf
-# bs4
-# arxiv
-# wikipedia
-# langchain-text-splitters
-# langchain-openai
-# faiss-cpu
-# duckdb
-# openai
-# duckduckgo_search==5.3.1b1
-# pymupdf
-# mysql-connector-python
-# SQLAlchemy
-# validators==0.28.1
-# youtube_transcript_api
-# unstructured
-# pytube
-# numexpr
-# huggingface_hub
-# streamlit
