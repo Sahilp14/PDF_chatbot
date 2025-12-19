@@ -28,3 +28,9 @@ langchain_chroma
 # numexpr
 # huggingface_hub
 # streamlit
+
+
+
+
+
+
