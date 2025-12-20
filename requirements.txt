@@ -8,3 +8,5 @@ langchain_chroma
 chromadb
 langchain_huggingface
 sentence_transformers
+bs4
+ipykernel
