@@ -20,9 +20,6 @@ from langchain_core.runnables import RunnableLambda
 # ------------------ ENV SETUP ------------------
 load_dotenv()
 hf_token = os.getenv("HF_TOKEN")
-if hf_token:
-    os.environ["HF_TOKEN"] = hf_token
-
 
 embeddings = HuggingFaceEmbeddings(
     model_name="all-MiniLM-L6-v2"
