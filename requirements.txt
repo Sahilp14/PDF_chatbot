@@ -2,27 +2,15 @@ langchain
 python-dotenv
 langchain-community
 langchain-groq
-transformers
-pandas
 langchain_chroma
 chromadb
 langchain_huggingface
 sentence_transformers
-bs4
 streamlit
 arxiv
 pymupdf
-duckduckgo-search
 faiss-cpu
 sentence_transformers
 langchain-text-splitters
-wikipedia
-duckdb
-pytube
-numexpr
 pypdf
-
-
-
-
 
