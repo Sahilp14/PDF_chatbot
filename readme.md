@@ -19,6 +19,7 @@ A **simple, session-aware chatbot** built using the LangChain framework. This pr
 
 ## 📦 Requirements
 
+
 Before running this project, make sure you have:
 
 - Python **3.8+**
