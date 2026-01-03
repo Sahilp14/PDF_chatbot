@@ -1,6 +1,6 @@
 # LangChain Chatbot 🤖
 
-A **simple, session-aware chatbot** built using the LangChain framework. This project demonstrates how to create a conversational AI that maintains session history — enabling context continuity between user messages.
+A **session-aware chatbot** built using the LangChain framework. This project demonstrates how to create a conversational AI that maintains session history — enabling context continuity between user messages.
 
 ---
 
